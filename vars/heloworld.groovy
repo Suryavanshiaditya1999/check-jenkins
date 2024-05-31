@@ -1,3 +1,3 @@
-def heloworld(){
+def call(){
  sh ' echo helo world '
 }
